@@ -1,0 +1,12 @@
+{
+  "type": "mysql",
+  "host": "qc.mganz.cc",
+  "port": 3306,
+  "username": "todo",
+  "password": "r3pSiypwhkwNJfaP",
+  "database": "todo",
+  "entities": [
+    "dist/**/*.entity{.ts,.js}"
+  ],
+  "synchronize": true
+}
